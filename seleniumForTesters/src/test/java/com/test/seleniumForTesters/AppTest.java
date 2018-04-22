@@ -3,7 +3,7 @@ package com.test.seleniumForTesters;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+// some changes
 /**
  * Unit test for simple App.
  */
