@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frame-app>
+   <frame-config>
+   <suitename>Flight reservation System</suitename>
+   <testcase-file>C:\Users\jayan\workspace\Seleniumadvanced\src\framework\SeleniumTestcase.xls</testcase-file>
+   <keyword-file>C:\Users\jayan\workspace\Seleniumadvanced\src\framework\Testcaseskeywords.xls</keyword-file>
+   <step-file>C:\Users\jayan\workspace\Seleniumadvanced\src\framework\steps.xls</step-file>
+   </frame-config>
+      <frame-config>
+   <suitename>Flight reservation System1</suitename>
+   <testcase-file>C:\Users\jayan\workspace\Seleniumadvanced\src\framework\SeleniumTestcase.xls</testcase-file>
+   <keyword-file>C:\Users\jayan\workspace\Seleniumadvanced\src\framework\Testcaseskeywords.xls</keyword-file>
+   <step-file>C:\Users\jayan\workspace\Seleniumadvanced\src\framework\steps.xls</step-file>
+   </frame-config>
+</frame-app>
